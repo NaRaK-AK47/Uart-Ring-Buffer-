@@ -1,0 +1,6 @@
+UartRingbuffer.c:19:6:RingBufferInit	1
+UartRingbuffer.c:26:6:HAL_UARTEx_RxEventCallback	2
+UartRingbuffer.c:35:6:WriteBuffer	3
+UartRingbuffer.c:51:6:ReadBuffer	2
+UartRingbuffer.c:67:10:isdataAvaliable	1
+UartRingbuffer.c:71:6:copyafter	2

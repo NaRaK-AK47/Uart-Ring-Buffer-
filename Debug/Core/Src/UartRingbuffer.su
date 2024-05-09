@@ -1,0 +1,6 @@
+../Core/Src/UartRingbuffer.c:19:6:RingBufferInit	16	static
+../Core/Src/UartRingbuffer.c:26:6:HAL_UARTEx_RxEventCallback	16	static
+../Core/Src/UartRingbuffer.c:35:6:WriteBuffer	16	static
+../Core/Src/UartRingbuffer.c:51:6:ReadBuffer	24	static
+../Core/Src/UartRingbuffer.c:67:10:isdataAvaliable	16	static
+../Core/Src/UartRingbuffer.c:71:6:copyafter	56	static
